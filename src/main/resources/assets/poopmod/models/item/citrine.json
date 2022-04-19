@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layers0": "poopmod:item/citrine"
+  }
+}
